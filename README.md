@@ -1,5 +1,4 @@
 # Zeiss-LSM-780-tile-stitching
-After running this code, you need to use ImageJ --> Plugins --> Stitching --> Grid/Collection stitching --> Positions from file --> 
 **Prepares tile scan tiffs from Zen software for stitching in ImageJ by:**
 1. Detecting x- and y- positions of each tile
 2. Saving a tile position text file that has the corresponding x- and y- positions for each tile (in the correct format for ImageJ)
